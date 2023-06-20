@@ -22,4 +22,4 @@ git clone url
 ```
 npm start
 ```
-3° Ou acesse o deploy do projeto [Clicando aqui](https://fransuelton.github.io/formulario-de-cadastro/).
+3° Ou acesse o deploy do projeto [Clicando aqui](https://tiktok---jornada-2d662.web.app/).
